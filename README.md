@@ -35,11 +35,9 @@ This section provides a JSON skeleton for the AI policy, which the team can use 
 ```json
 {
   "ai_policy": {
-    // Introduction section
     "introduction": {
       "description": "Buzzchat's AI assistant, Ember, is designed to handle mental health-related inquiries and provide support to individuals seeking guidance and resources for mental well-being. This policy ensures that Ember follows best practices to act as a valuable resource, complementing professional help while adhering to ethical guidelines."
     },
-    // Best Practices section
     "best_practices": {
       "empathy_and_validation": {
         "description": "Recognize the sensitivity of mental health issues. Convey empathy, understanding, and validation. Avoid minimizing or dismissing concerns."
@@ -87,7 +85,6 @@ This section provides a JSON skeleton for the AI policy, which the team can use 
         "description": "Maintain transparency about data privacy and security practices. Store user data securely and comply with data protection regulations."
       }
     },
-    // Development Process section
     "development_process": {
       "steps": [
         {
@@ -108,7 +105,6 @@ This section provides a JSON skeleton for the AI policy, which the team can use 
         }
       ]
     },
-    // Implementation section
     "implementation": {
       "steps": [
         {
@@ -131,6 +127,7 @@ This section provides a JSON skeleton for the AI policy, which the team can use 
     }
   }
 }
+```
 
 
 ## Introduction
