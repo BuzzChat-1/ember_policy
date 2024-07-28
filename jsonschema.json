@@ -1,0 +1,240 @@
+{  
+    "$schema": "http://json-schema.org/draft-07/schema#",  
+    "type": "object",  
+    "properties": {  
+        "best_practices_for_ember": {  
+            "type": "object",  
+            "properties": {  
+                "introduction": {  
+                    "type": "object",  
+                    "properties": {  
+                        "description": {  
+                            "type": "string"  
+                        },  
+                        "goal": {  
+                            "type": "string"  
+                        },  
+                        "guidelines": {  
+                            "type": "string"  
+                        }  
+                    }
+                },  
+                "principles": {  
+                    "type": "object",  
+                    "properties": {  
+                        "empathy_and_validation": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "collaborative_approach": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "active_listening": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "non_judgmental_approach": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "personalized_responses": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "encourage_professional_help": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "example": {  
+                                    "type": "string"  
+                                }  
+                            } 
+                        },  
+                        "referrals_and_next_steps": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "safety_and_crisis_intervention": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "transparency_and_limitations": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            } 
+                        },  
+                        "avoid_medical_advice": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "regular_updates_and_training": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "clinical_validation": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "ongoing_improvement": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "integration_with_existing_systems": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                        },  
+                        "data_privacy_and_security": {  
+                            "type": "object",  
+                            "properties": {  
+                                "description": {  
+                                    "type": "string"  
+                                },  
+                                "guidelines": {  
+                                    "type": "array",  
+                                    "items": {  
+                                        "type": "string"  
+                                    }  
+                                }  
+                            }
+                          
+                        }  
+                    }
+                }  
+            },  
+            "required": ["introduction", "principles"]  
+        }  
+    },  
+    "required": ["best_practices_for_ember"]  
+}
